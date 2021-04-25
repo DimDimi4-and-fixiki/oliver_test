@@ -3,6 +3,7 @@
 ### Technologies Used:  <img src="https://vk.com/emoji/e/f09f92bb.png" height="30px"/>
 - Python 3.7
 - FastAPI
+- AlchemySQL <img src="https://vk.com/emoji/e/f09f92ab.png" height="25px"/> <img src="https://vk.com/emoji/e/f09f92ab.png" height="25px"/> <img src="https://vk.com/emoji/e/f09f92ab.png" height="25px"/>
 - PostgreSQL
 - Docker  
   
